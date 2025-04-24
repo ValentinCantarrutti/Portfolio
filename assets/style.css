@@ -108,6 +108,9 @@ a:visited {
     vertical-align: middle; 
 }
 
+.tablasimple tr {
+    border-bottom: 1px solid #ddd;
+  }
 
 .tablasimple .imagen {
     max-width: 240px;       
